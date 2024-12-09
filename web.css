@@ -1,0 +1,37 @@
+h1 {
+    background: linear-gradient(rgb(255, 255, 255),rgb(190, 21, 21));
+    font-family: "Press Start 2P";
+}
+pre {
+    color: rgb(38, 237, 20);
+    font-family: sans-serif,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+    border-style: outset;
+    border-width: 2px;
+}
+h2 {
+    color: rgb(5, 243, 255);
+}
+body{
+    background-color: black;
+    background: linear-gradient(rgb(116, 149, 116),rgb(0, 0, 0));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p {
+    color: rgb(203, 23, 47);
+    font-family: sans-serif,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em; 
+} 
+h3 {
+    color: cornflowerblue;
+}
+#p1 {
+    color: rgb(12, 250, 12);
+}
+a:link{
+    border-style: outset;
+    border-radius: 2px;
+    background-color: white;
+}
+

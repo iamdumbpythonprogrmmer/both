@@ -1,0 +1,22 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    background-color: aliceblue;
+}
+h4 {
+    font-family: fantasy;
+    color: darkcyan;
+    background-color: rgba(255, 242, 0, 0.697);
+    width: 190px;
+}
+body {
+    background:linear-gradient(skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a:link{
+    border-style: solid;
+    border-radius: 2px;
+    background-color: rgb(241, 114, 9);
+    text-align: center;
+}
